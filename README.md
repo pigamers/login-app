@@ -1,3 +1,10 @@
+# At first Use this
+
+### `npm i`
+
+This will install all the required node modules.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
